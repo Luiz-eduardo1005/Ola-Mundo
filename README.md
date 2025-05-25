@@ -1,8 +1,17 @@
-# Olá, Mundo!
-Primeiro repositório do curso de git e github!
+# 💻 Olá, Mundo!
 
-# Repositório criado durante uma aula!
+Este é o meu **primeiro repositório** usando Git e GitHub!  
+Criado durante uma aula prática para aprender os comandos essenciais de versionamento.
 
-# Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!!
+
+## 🧠 O que eu aprendi:
+- Criar repositórios no GitHub
+- Clonar repositórios na máquina
+- Fazer commits com mensagens claras
+- Editar arquivos diretamente pelo navegador (!!!)
+
+
+### 🚀 Próximos passos:
+- Adicionar novos projetos em Python e Java
 
 
